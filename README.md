@@ -43,9 +43,9 @@ python sorter.py
 
 Contributing
 Have a useful automation script? Contributions are welcome.
-	1	Fork the repository
-	2	Create a new branch (git checkout -b feature/your-script-name)
-	3	Add your script in its own folder with a brief README.md
-	4	Commit and push your changes
-	5	Open a Pull Request
+	1.	Fork the repository
+	2.	Create a new branch (git checkout -b feature/your-script-name)
+	3.	Add your script in its own folder with a brief README.md
+	4.	Commit and push your changes
+	5.	Open a Pull Request
 # python-automations
